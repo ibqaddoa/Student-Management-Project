@@ -1,4 +1,4 @@
-# Student-Managment-Project
+# Student-Management-Project
 
 - A log in page that can only be surpassed if your user name and password is stored in the database
 - You can add students to the main list and let it get stored in the data base
